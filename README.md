@@ -1,7 +1,8 @@
 
 
-![image alt]([image_url](https://github.com/JoshuaKorang/CalorieCounter/blob/741f08bb93d5ec17e8668d9bc75aa410601c241c/Screenshot%202024-09-05%20102446.png)
 
+![Screenshot 2024-09-05 102446](https://github.com/user-attachments/assets/065435d6-bccc-4cc1-8473-51954090219f)
+<img width="340" alt="Screenshot 2024-09-05 103002" src="https://github.com/user-attachments/assets/3e3af885-e9a8-476d-a0dd-19b50c4dc6d7">
 
 ## CalorieCounter 🍎
 
