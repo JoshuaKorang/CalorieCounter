@@ -1,3 +1,8 @@
+
+
+![image alt]([image_url](https://github.com/JoshuaKorang/CalorieCounter/blob/main/Screenshot%202024-09-05%20102446.png?raw=true))
+
+
 ## CalorieCounter 🍎
 
 A comprehensive tool for tracking your nutrition and fitness journey. With **CalorieCounter**, you can:
